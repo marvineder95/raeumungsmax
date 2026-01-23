@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs / temp
+*.log
+
+# optional build stuff
+dist/
+node_modules/
